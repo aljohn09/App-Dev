@@ -4,13 +4,7 @@ My first repository.
 ### Welcome
 
 	```
-{
-  "firstName": "Aljohn",
-  "lastName": "Serapion",
-  "address": "Quezon City"
-  
-}
-
+![Alt text](https://image.tmdb.org/t/p/original/6E50WjeOYjDZg9HXgPjYdGtY2jG.jpg)
 ##Pineapple Express (2008)
 Pineapple Express (2008) is a stoner action-comedy film directed by David Gordon Green. It stars Seth Rogen and James Franco as unlikely friends who become embroiled in a dangerous adventure after witnessing a murder while under the influence of a rare strain of marijuana, the "Pineapple Express." When they go on the run from hitmen and corrupt cops, their relationship is tested as they try to stay alive. The film combines slapstick humor, action, and the oddball chemistry between the leads, with a script co-written by Rogen and Evan Goldberg. It’s known for its offbeat humor, fast-paced action, and memorable performances.
 
@@ -46,7 +40,7 @@ Castings (20 Peoples)
 </ul>
 
 
-![Alt text](https://image.tmdb.org/t/p/original/6E50WjeOYjDZg9HXgPjYdGtY2jG.jpg)
+
 # Favorite Elements
 
 The Chemistry Between the Main Characters
@@ -64,6 +58,8 @@ This authentic, off-the-cuff vibe helped make Saul one of the most memorable and
 
 # Rate
 ⭐⭐⭐⭐⭐ (5/5)
+
+![Alt text](https://www.bing.com/th/id/OGC.39dc6a9cbe52700c557b44ed6d28e40a?pid=1.7&rurl=https%3a%2f%2fi1.wp.com%2fbraindeadradio.com%2fwp-content%2fuploads%2f2012%2f02%2fpineapple-express-5.gif&ehk=7bnXy8Ufw7nWHOrNt1r1PqRAg4x2e9tDUy9%2bxDMu%2bkU%3d)
 ```
 
 	**Have a nice day**
