@@ -5,7 +5,7 @@ My first repository.
 
 # Details (Highly Reccomended)
 <ul>
-  <li>Genre: action, crime, sitcom (short for "situational comedy")</li>
+  <li>Genre: action, crime, comedy </li>
   <li>Release Date: August 6, 2008</li>
   </ul>
 
@@ -56,3 +56,5 @@ A fun fact about Pineapple Express (2008) is that the film's title was inspired 
 ![alt text](https://i1.wp.com/braindeadradio.com/wp-content/uploads/2012/02/pineapple-express-5.gif)
 
 ![alt text](https://www.pbs.org/independentlens/wp-content/uploads/2017/04/pineapple-express-2.gif)
+
+
