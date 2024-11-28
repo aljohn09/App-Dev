@@ -12,7 +12,7 @@ My first repository.
 Pineapple Express (2008) is a stoner action-comedy film directed by David Gordon Green. It stars Seth Rogen and James Franco as two unlikely friends—Dale Denton (a process server) and Saul Silver (a marijuana dealer). After Dale witnesses a murder by a corrupt cop (played by Gary Cole) and a drug lord (Rosie Perez), the duo goes on the run. The film combines humor, action, and the absurdity of their situation as they try to evade both the police and criminals. The movie is known for its quirky characters, wild antics, and blend of comedy and action.
 
 
-# Pineapple Express (Best movie)
+# Pineapple Express (Movie)
 <ul>
 Castings (21 Peoples)
 <li>Seth Rogen (played by Dale Denton)</li>
