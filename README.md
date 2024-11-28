@@ -27,7 +27,6 @@ Castings (21 Peoples)
 <li>Ed Begley Jr. (played by Nora Dunn)</li>
 <li>Joe Lo Truglio (played by Mr. Edwards)</li>
 <li>Cleo King (played by Police Liaison Officer Bobbra)</li>
-	
 <li>Bill Hader (played by Private Miller)</li>
 <li>James Remar (played by General Bratt)</li>
 <li>David McDivitt (played by Cop with Mole)</li>
