@@ -40,11 +40,10 @@ Castings (21 Peoples)
 
 # Favorite Elements
 
-The Over-the-Top Villains
-The Chemistry Between the Main Characters
-The Comedy-Action Blend
-Iconic Catchphrases
-Humor and Sarcasm
+<li>The Over-the-Top Villains<li>
+<li>The Comedy-Action Blend<li>
+<li>Iconic Catchphrases<li>
+<li>Humor and Sarcasm<li>
 
 # Fun Fact!!
 A fun fact about Pineapple Express (2008) is that the film's title was inspired by an actual weather phenomenon. A "Pineapple Express" refers to a meteorological event where warm, moist air from the Pacific Ocean near Hawaii moves toward the West Coast of the United States, bringing heavy rain and stormy weather. The filmmakers thought the name was fitting because it evoked the idea of something powerful and unpredictable, much like the wild and chaotic adventures of the film’s main characters!
